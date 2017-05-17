@@ -44,3 +44,7 @@ ECMAScript6
   - 28_ArrayBuffer
   - 29_TypedArray
   - 30_DataView
+  
+5. 참고자료
+  - 2017년과 이후 JavaScript의 동향 - JavaScript(ECMAScript) : http://d2.naver.com/helloworld/2809766
+  - 2015 S67 스터디 발표자료 : http://d2.naver.com/news/5743505
