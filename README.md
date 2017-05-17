@@ -44,3 +44,6 @@ ECMAScript6
   - 28_ArrayBuffer
   - 29_TypedArray
   - 30_DataView
+  
+  5. 참고자료
+    - http://d2.naver.com/news/5743505
