@@ -11,3 +11,5 @@ ECMAScript6 - 01_intro
 - public, interface 등 확장을 위한 예약어가 키워드로 인정한다.
 - 읽기 전용, 확장 불가, 삭제 불가 속성을 잘못 건드릴 경우 에러 처리한다.
     
+2. &lt;script src="myCode.js" defer&gt;</script> - defer
+- 속성 defer 를 추가 하면 html 파일의 모든 엘리먼트(Element)를 랜더링한 후 myCode.js 파일에 작성된 자바스크립트 코드가 실행된다.
