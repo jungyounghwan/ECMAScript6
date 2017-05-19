@@ -14,7 +14,7 @@ ECMAScript6 - 02_let_const
 
 3. let, const
 - let : 원시형에서 변수
-- const : 상수, 참조형
+- const : 상수, 참조형 (값을 변경할 수 없음 : object는 할당할 수 없지만 object의 property는 변경할 수 있음)
 - 참조 : http://mingcho.tistory.com/16
 
 3. let-this.js
