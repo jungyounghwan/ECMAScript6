@@ -48,3 +48,4 @@ ECMAScript6
 5. 참고자료
   - 2017년과 이후 JavaScript의 동향 - JavaScript(ECMAScript) : http://d2.naver.com/helloworld/2809766
   - 2015 S67 스터디 발표자료 : http://d2.naver.com/news/5743505
+  - ES6 호환성 확인 : http://kangax.github.io/compat-table/es6/
