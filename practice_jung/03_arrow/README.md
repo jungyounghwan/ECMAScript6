@@ -8,7 +8,7 @@ ECMAScript6 - 03_arrow
 - param => { {key : value} };
 - (param1, param2, ...rest) => { 코드 };
 - ([one, two] = [1, 2]) => one + two;
-- ([key : sum] = {key : 10 + 20}) = { 코드 };
+- ([key : sum] = {key : 10 + 20}) => { 코드 };
 
 2. Argument
 - (Q) argument 란?

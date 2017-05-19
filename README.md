@@ -8,6 +8,7 @@ ECMAScript6
   - 교재 : ECMAScript6 / 루비페이퍼 / 김영보 지음
   - 교재의 exercise 를 따라 완독
   - 각 챕터당 추가 사항 및 참조 사항은 각 챕터별 README.md 생성 후 정리
+  - ECMAScript6 교재를 따라 정리한 tistory : http://mollangk.tistory.com/30
   
 3. exercise 규칙
   - "exercise_개인명" 폴더를 만들고 연습
