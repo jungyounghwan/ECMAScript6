@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Vuejs</title>
+    
+    <script src="https://unpkg.com/vue"></script>
+</head>
+<body>
+    <main id="app">
+        <h1>NATO Phonetic Converter</h1>
+        <input placeholder="Word or phrase" v-model="input">
+        <button @click="clear">clear</button>
+        <p>{{ result }}</p>
+    </main>
+    <script>
+        var app = new Vue({
+            el: '#app',
+            data: {
+                input: '',
+            },
+        })
+    </script>
+</body>
+</html>
