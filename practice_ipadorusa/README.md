@@ -23,8 +23,8 @@ Ipadorusa
   - 비교적 한국어 가이드가 잘 되어 있어서.
 
 - 설치
-  1. 직접 <script> 추가
+  1. 직접 script 추가
   2. npm으로 설치
   3. vue-cli
   4. bower
-  
+
