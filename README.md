@@ -1,23 +1,23 @@
-#ECMAScript6
+# ECMAScript6
 
-##일정
+## 일정
 - 11/15 ~ 
 
-##진행방식
+## 진행방식
 - 자율진행 (자유롭게 한권 보기!)
 - 교재 : ECMAScript6 / 루비페이퍼 / 김영보 지음
 - 교재의 exercise 를 따라 완독
 - 각 챕터당 추가 사항 및 참조 사항은 각 챕터별 README.md 생성 후 정리
 - ECMAScript6 교재를 따라 정리한 tistory : http://mollangk.tistory.com/30
   
-##exercise 규칙
+## exercise 규칙
 - "exercise_개인명" 폴더를 만들고 연습
 - "exercise_source" 폴더는 참고용
   
-##ES5 와 비교
+## ES5 와 비교
 - Babel 설치 후 Build 를 통한 ES5 로 변환
   
-##Babel 사용하기
+## Babel 사용하기
 - npm init
 - npm install -g babel-cli babel-loader
 - npm install --save-dev babel-cli babel-loader
@@ -25,7 +25,7 @@
 - package.json 에 {"scripts": {"build": "babel ./[es6 폴더명] -d ./[build 폴더명]"} 
 - npm run build
 
-##챕터
+## 챕터
 - 01_intro
 - 02_let_const
 - 03_arrow
@@ -57,7 +57,7 @@
 - 29_TypedArray
 - 30_DataView
   
-##참고자료
+## 참고자료
 - 2017년과 이후 JavaScript의 동향 - JavaScript(ECMAScript) : [http://d2.naver.com/helloworld/2809766](http://d2.naver.com/helloworld/2809766)
 - 2015 S67 스터디 발표자료 : [http://d2.naver.com/news/5743505](http://d2.naver.com/news/5743505)
 - ES6 호환성 확인 : [http://kangax.github.io/compat-table/es6/](http://kangax.github.io/compat-table/es6/)
