@@ -1,4 +1,6 @@
-const obj = {language : '한글'};
+'use strict';
+
+var obj = { language: '한글' };
 try {
     //obj = {};
 } catch (e) {

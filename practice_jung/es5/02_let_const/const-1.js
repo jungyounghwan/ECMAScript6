@@ -1,4 +1,6 @@
-const SPORTS = '축구';
+'use strict';
+
+var SPORTS = '축구';
 try {
     //SPORTS = '농구';
 } catch (e) {
