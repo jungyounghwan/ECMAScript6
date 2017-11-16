@@ -1,0 +1,10 @@
+'use strict';
+
+console.log(Object.assign('ABC', { one: 1 }));
+console.log(Object.assign(Symbol('ABC'), { one: 1 }));
+
+try {
+    var obj = Object.assign('ABC', 'ONE');
+} catch (e) {
+    console.log('파라미터 모두 문자열 사용 불가');
+}
